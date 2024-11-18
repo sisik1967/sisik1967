@@ -1,7 +1,7 @@
 <img src="imagesbanner1.jpg" width="1200" height="300">
 <!--![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ESw68u3nEUEr-ceu0fHfrwHDoN84dMpEIQ&usqp=CAU | width=100) -->
 <h1 align="center">Hi 👋, I'm Sabahattin Isik.</h1>
-<h3 align="center">A passionate Software QA Test Engineer from USA.</h3>
+<h3 align="center">Hydrologist at the USGS LMG WSC.</h3>
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sisik1967&label=Profile%20views&color=0e75b6&style=flat" alt="sisik1967" /> </p>
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sisik1967/](https://github.com/sisik1967/)
 
-- 📫 How to reach me **sabahattin.gm@gmail.com**
+- 📫 How to reach me **sabahattin67@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
