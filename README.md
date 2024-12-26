@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sisik1967/](https://github.com/sisik1967/) -->
 
-- 📫 How to reach me **sabahattin67@gmail.com** 
+<!-- 📫 How to reach me **sabahattin67@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
